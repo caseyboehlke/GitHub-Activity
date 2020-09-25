@@ -1,0 +1,7 @@
+  Once upon a time there was a place called the University of Wisconsin-Madison. At
+this university, there was a group of students taking CS400 who had to do a GitHub
+project together. In this project, they had to write a story in a file called
+story.txt. The student responsible for the first paragraph is named Casey Boehlke.
+Casey sat at his desk and was unable to come up with a creative idea for a story,
+so he decided to simply describe the assignment.
+  
